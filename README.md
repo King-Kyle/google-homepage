@@ -1,0 +1,1 @@
+A mock-up of the Google homepage
